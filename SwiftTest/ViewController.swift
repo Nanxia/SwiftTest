@@ -40,8 +40,6 @@ class ViewController: UIViewController {
         //2.开始任务
         operation.start()
         
-        
-        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
